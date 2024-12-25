@@ -171,6 +171,6 @@ MIN_PROFIT_PERCENT=2
 
 # En Visual Studio Code compilar el archivo .py
 
-python -m compileall mtb4.py   
+python -m compileall mtb5.py   
 
-Finalmente dobleclick en el archivo mtb4.pyc
+Finalmente dobleclick en el archivo mtb5.pyc
