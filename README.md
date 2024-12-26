@@ -7,6 +7,7 @@ En este archivo instructivo se encuentran todos los pasos para ponerlo en funcio
 # Donaciones
 
 USDT (TRC20): TP2DxAk2idhxzrb7mKMjt6gTdBeDjjt1zA
+
 ETH  (ETH)  : 0x5c1cd5d71634383dF70F8c093B543D7B31104fbd
 
 
