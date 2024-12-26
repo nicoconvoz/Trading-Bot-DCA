@@ -4,6 +4,11 @@ Bot automático de criptomonedas hecho en Python con conexión a la Api de Binan
 El bot realiza DCA y es totalmente calibrable. 
 En este archivo instructivo se encuentran todos los pasos para ponerlo en funcionamiento. 
 
+# Donaciones
+
+USDT (TRC20): TP2DxAk2idhxzrb7mKMjt6gTdBeDjjt1zA
+
+
 # Instrucciones para iniciar la App:
 
 
