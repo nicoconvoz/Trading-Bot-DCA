@@ -18,6 +18,9 @@ ETH  (ETH)  : 0x5c1cd5d71634383dF70F8c093B543D7B31104fbd
 
 https://code.visualstudio.com/
 
+# Instalar Python
+
+https://www.python.org/downloads/
 
 # Instalar Node.Js
 
